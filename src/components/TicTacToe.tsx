@@ -106,11 +106,6 @@ const TicTacToe = () => {
       >
         🔄 Nieuw Spel
       </button>
-
-      <div className="mt-8 text-center text-gray-600">
-        <p className="mb-2">📱 Gemaakt met Next.js en Tailwind CSS</p>
-        <p>👨‍💻 Door: pinkostinky</p>
-      </div>
     </div>
   );
 };
